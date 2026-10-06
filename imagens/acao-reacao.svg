@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustração da terceira lei de Newton</title>
+  <desc id="desc">Duas pessoas sobre skates empurrando-se em sentidos opostos, representando forças de ação e reação.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff4ef"/>
+      <stop offset=".55" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f2edff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="460" rx="28" fill="url(#bg)"/>
+  <path d="M70 375H830" stroke="#353539" stroke-width="9" stroke-linecap="round" opacity=".72"/>
+  <g fill="none" stroke="#252528" stroke-width="8" stroke-linecap="round">
+    <circle cx="310" cy="170" r="42" fill="#ffd7c2"/>
+    <path d="M310 214v92M310 242l80 35M310 245l-55 52M310 304l-52 50M310 304l50 49"/>
+    <circle cx="590" cy="170" r="42" fill="#ffd7c2"/>
+    <path d="M590 214v92M590 242l-80 35M590 245l55 52M590 304l52 50M590 304l-50 49"/>
+  </g>
+  <g stroke="#7657ff" stroke-width="13" stroke-linecap="round">
+    <path d="M420 112H220"/>
+    <path d="m220 112 42-28v56Z" fill="#7657ff" stroke="none"/>
+  </g>
+  <g stroke="#e21b23" stroke-width="13" stroke-linecap="round">
+    <path d="M480 112H680"/>
+    <path d="m680 112-42-28v56Z" fill="#e21b23" stroke="none"/>
+  </g>
+  <g fill="#1d1d1f" font-family="Arial, sans-serif" font-size="28" font-weight="700">
+    <text x="170" y="70">força em A</text>
+    <text x="596" y="70">força em B</text>
+  </g>
+  <g fill="#353539">
+    <rect x="230" y="358" width="160" height="18" rx="9"/>
+    <rect x="510" y="358" width="160" height="18" rx="9"/>
+    <circle cx="265" cy="390" r="14"/>
+    <circle cx="355" cy="390" r="14"/>
+    <circle cx="545" cy="390" r="14"/>
+    <circle cx="635" cy="390" r="14"/>
+  </g>
+</svg>
